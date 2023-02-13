@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivneelSingh88
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Networking.
 - 💞️ I’m looking to collaborate on Cloud Computing
 - 📫 How to reach me at ShivneelSingh@me.com
 
